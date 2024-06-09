@@ -3,5 +3,9 @@
     "notebook.displayOrder": [
         "application/json"
     ],
-    "notebook.output.wordWrap": true
+    "notebook.output.wordWrap": true,
+    "dataworkspace.excludedProjects": [
+        "LaetitiaDB/LaetitiaDB.sqlproj",
+        "LaetitiaSQL/LaetitiaSQL.sqlproj"
+    ]
 }
